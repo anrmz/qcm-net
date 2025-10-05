@@ -1,6 +1,6 @@
 # QCM Platform Front-End
 
-A modern and responsive **QCM (Quiz/Questionnaire) platform** built by **Anouar Mezgualli**, Full-Stack Developer.  
+A modern and responsive **QCM (Quiz/Questionnaire) platform**.  
 This project provides a seamless quiz experience with a clean UI and optimized performance.
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/anrmzs-projects/v0-qcm-platform-front-end)
