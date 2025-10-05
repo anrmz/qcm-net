@@ -1,30 +1,42 @@
-# QCM platform front-end
+# QCM Platform Front-End
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+A modern and responsive **QCM (Quiz/Questionnaire) platform** built by **Anouar Mezgualli**, Full-Stack Developer.  
+This project provides a seamless quiz experience with a clean UI and optimized performance.
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/anrmzs-projects/v0-qcm-platform-front-end)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/u066EuiDbeT)
+[![Built with V0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app)
 
-## Overview
+---
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## 🚀 Live Demo
 
-## Deployment
+**👉 [QCM Platform on Vercel](https://vercel.com/anrmzs-projects/v0-qcm-platform-front-end)**
 
-Your project is live at:
+---
 
-**[https://vercel.com/anrmzs-projects/v0-qcm-platform-front-end](https://vercel.com/anrmzs-projects/v0-qcm-platform-front-end)**
+## 🧠 Overview
 
-## Build your app
+This is the front-end for the **QCM Platform**, developed using **Next.js**, **Vercel AI SDK**, and modern UI components.  
+It allows users to interact with quizzes dynamically and can be easily extended or customized for different use cases.
 
-Continue building your app on:
+---
 
-**[https://v0.app/chat/projects/u066EuiDbeT](https://v0.app/chat/projects/u066EuiDbeT)**
+## 🛠️ Installation & Setup (Local Development)
 
-## How It Works
+Follow these steps to get started locally:
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+```bash
+# 1️⃣ Clone the repository
+git clone https://github.com/<your-username>/<your-repo-name>.git
+
+# 2️⃣ Navigate to the project folder
+cd <your-repo-name>
+
+# 3️⃣ Install dependencies
+npm install --legacy-peer-deps
+
+# 4️⃣ (Optional) Uninstall conflicting package if needed
+npm uninstall vaul
+
+# 5️⃣ Start the development server
+npm run dev
